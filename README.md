@@ -1,3 +1,7 @@
+# New 
+- from [gatsby-starter-tailwind](https://www.gatsbyjs.com/starters/taylorbryant/gatsby-starter-tailwind) 
+- update dev.to theme
+
 # Gatsby Starter Tailwind
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
