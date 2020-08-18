@@ -32,7 +32,16 @@ function Header() {
             </span>
           </h1>
         </Link>
-
+        <div className="flex items-center">
+          <div className="">
+            <a href="https://dev.to/meenachinmay">
+              <img id="logo" className="focus:outline-none" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chinmay Anand's DEV Profile" />
+            </a>
+          </div>
+          <div className="px-3">
+            <input type="text" id="search__input" className="border rounded border-gray-500 focus:outline-none" placeholder="Search..." />
+          </div>
+        </div>
         <button
           className="flex items-center block px-3 py-2 text-white border border-white rounded md:hidden"
           onClick={() => toggleExpansion(!isExpanded)}
@@ -50,7 +59,7 @@ function Header() {
         <nav
           className={`${
             isExpanded ? `block` : `hidden`
-          } md:block md:flex md:items-center w-full md:w-auto`}
+            } md:block md:flex md:items-center w-full md:w-auto`}
         >
           {[
             {
