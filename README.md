@@ -1,6 +1,6 @@
 # New 
 - from [gatsby-starter-tailwind](https://www.gatsbyjs.com/starters/taylorbryant/gatsby-starter-tailwind) 
-- update dev.to theme
+- update dev.to theme from [Chinmay Anand](https://dev.to/meenachinmay/i-made-clone-of-dev-to-part-2-1nhc)
 
 # Gatsby Starter Tailwind
 
