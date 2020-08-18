@@ -4,7 +4,7 @@ import Comment from '../images/comment.svg';
 
 const DevCard = (prop) => {
     return (
-        <div className="container mx-auto p-3 rounded bg-white w-auto sm:w-auto md:w-2/3 lg:w-2/3 xl:w-1/3 mt-3 border border-gray-300">
+        <div className="container mx-auto p-3 rounded bg-white w-auto sm:w-auto md:w-2/3 lg:w-2/3 xl:w-2/3 mt-3 border border-gray-300">
             <div className="flex items-center mb-2">
                 <div>
                     <img className="rounded-full" style={{ width: "40px", height: "40px"}} src="" alt="profile pic"/>

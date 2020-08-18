@@ -36,7 +36,7 @@ function IndexPage() {
           </a>
           , a utility-first CSS framework.
         </p> */}
-        <DevCard reactions_count="34" title="Fastify routes123" />
+        <DevCard reactions_count="100" title="Testing in GatsbyJS" />
       </section>
     </Layout>
   );
